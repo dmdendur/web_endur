@@ -1,0 +1,58 @@
+{
+	"tit0": "gastronómica",
+	"subs0": "chef / mesero / hostess / cajeros",
+	"tit": "/gastronómico.",
+	"subcat": [
+		"chef",
+		"mesero",
+		"hostess",
+		"cajeros"
+	],
+	"desc": "Contamos con todas las prendas necesarias para resaltar la mejor imagen de tu restaurante o negocio de comida. Esta línea se compone de prendas como filipinas, gorros, mandiles, pantalones, chalecos, cofias, entre otros, especialmente diseñados con los mejores textiles anti manchas, repelentes al agua y resistentes al calor.",
+	"item": [
+		{
+			"it": "Gorro de chef",
+			"id": "Gorro de cocinero con mesh en la parte superior y elástico en la parte trasera.",
+			"compo": [
+				"Gabardina: 100%algodón – 219 gr/m2",
+				"Popelina: 100% algodón – 164 gr/m2"
+			]
+		},
+		{
+			"it": "Filipina Chef para dama",
+			"id": "Filipina de chef dama con cortes en hombros. Lleva manga 3/4 con corte en puño y decoración en bies negro.",
+			"compo": [
+				"Gabardina : 60%algodón 40%poliéster – 232gr/m2",
+				"Gabardina: 100% algodón – 253 gr/m2",
+				"Gabardina: 65%poliéster 35%algodón – 230 gr/m2"
+			]
+		},
+		{
+			"it": "Filipina Chef estilo oriental",
+			"id": "Filipina unisex estilo oriental. Bies en contraste decorativo, manga corta, se cierra cruzado con cintilla. Bolsillo de parche y aberturas laterales para acceder al pantalón.",
+			"compo": [
+				"Gabardina : 60%algodón 40%poliéster – 232gr/m2",
+				"Gabardina: 100% algodón – 253 gr/m2",
+				"Gabardina: 65%poliéster 35%algodón – 230 gr/m2"
+			]
+		},
+		{
+			"it": "Mandil de cocina y mesero",
+			"id": "Delantal de mezcilla con costuras en contraste y bolsillos tipo jeans.",
+			"compo": [
+				"Popelina o gabardina: 65%poliéster 35% algodón – 164 gr/m2",
+				"Gabardina: 100%poliéster – 178 gr/m2",
+				"Gabardina: 100% algodón – 253 gr/m2"
+			]
+		},
+		{
+			"it": "Pantalón cargo de chef con jareta",
+			"id": "Pantalón de dama con elástico en pretina. Bolsas de parche al frente y tipo cargo en costados. En la espalda lleva bolsillos.",
+			"compo": [
+				"Gabardina: 60%algodón 40%poliéster – 232gr/m2",
+				"Gabardina: 100% algodón – 253 gr/m2",
+				"Gabardina: 65%poliéster 35%algodón – 230 gr/m2"
+			]
+		}
+	]
+}
