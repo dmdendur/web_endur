@@ -3,6 +3,7 @@
 	"subs0": "chef / mesero / hostess / cajeros",
 	"tit": "/gastronómico.",
 	"subcat": [
+		"chef",
 		"mesero",
 		"hostess",
 		"cajeros"
