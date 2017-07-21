@@ -1,0 +1,57 @@
+{
+	"tit0": "comercial",
+	"subs0": "retail / gimnasio / cadenas de restaurantes",
+	"tit": "/comercial.",
+	"subcat": [
+		"retail",
+		"gimnasio",
+		"cadenas de restaurantes"
+	],
+	"desc": "Prendas básicas adaptadas a la imagen de tu empresa para tus necesidades específicas. Lo más atractivo y cómodo en pantalones casuales, playeras polo, camisas de trabajo y gorras, especialmente diseñadas para tu empresa y 100% customizables.",
+	"item": [
+		{
+			"it": "Camisa de caballero manga corta",
+			"id": "Camisa manga corta con bolsa de parche en pecho. Tablón en espalda. Button down. Aletilla con corte.",
+			"compo": [
+				"Popelina Ambassador: 70%poliéster, 30%algodón – 130gr/m2",
+				"Oxford: 60%algodón, 40%poliéster – 150gr/m2",
+				"Popelina: 59%algodón, 41%poliéster"
+			]
+		},
+		{
+			"it": "Camisa vestir caballero",
+			"id": "Camisa de vestir para caballero con cuello y puños en contraste. Botones ocultos y bies decorativo bajo pie de cuello.",
+			"compo": [
+				"Oxford: 60%algodón, 40%poliéster – 150gr/m2",
+				"Popelina: 59%algodón, 41%poliéster"
+			]
+		},
+		{
+			"it": "Playera tipo polo caballero",
+			"id": "Playera de manga corta y cuello sport para dama y caballero. Con opción a bordado customizado.",
+			"compo": [
+				"Pique peinado: 50%poliéster, 50%algodón – 257gr/m2",
+				"Pique cardado: 100%algodón – 160gr/m2",
+				"Pique doble frontura: 50%poliéster, 50%algodón"
+			]
+		},
+		{
+			"it": "Pantalón de trabajo dama",
+			"id": "Pantalón de trabajo para dama en textiles resistentes. Bolsillos en diagonal en frente y de parche en espalda.",
+			"compo": [
+				"Casimir: 65%poliéster, 35%viscosa – 320gr/m2",
+				"Gabardina stretch: 97%algodón,3%elastano - ",
+				"Casimir: 100%poliéster"
+			]
+		},
+		{
+			"it": "Bermudas",
+			"id": "Short tipo cargo con bolsas en diagonal en costados. Bolsas cargo con fuelle. Botón de pasta al tono. Bolsillos diagonales en frente.",
+			"compo": [
+				"Gabardina: 60%algodón 40%poliéster – 232gr/m2\t",
+				"Gabardina: 100% algodón – 250 gr/m2",
+				"Gabardina: 65%poliéster 35%algodón - 310gr/m2 "
+			]
+		}
+	]
+}
