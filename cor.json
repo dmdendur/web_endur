@@ -1,0 +1,44 @@
+{
+	"tit0": "corporativo",
+	"subs0": "banca / aerolinea / instituciones",
+	"tit": "/corporativo.",
+	"subcat": [
+		"banca",
+		"aerolinea",
+		"instituciones"
+	],
+	"desc": "Una buena imagen empresarial solo se consigue con un buen uniforme. Hacemos propuestas personalizadas para tus conjuntos de sacos, pantalones, faldas y blusas y camisas ejecutivas. Te proponemos las mejores opciones en cuanto a diseño y calidad acordes a tu imagen corporativa.",
+	"item": [
+		{
+			"it": "Camisa cuello mao dama",
+			"id": "Blusa cuello mao. Aletilla con botones cubiertos. Puños con terminación en curva. Corte princesa desde sisa. Bastilla redondeada.",
+			"compo": [
+				"Popelina Ambassador: 70%poliéster, 30%algodón – 130gr/m2",
+				"Crepé: 100%poliéster",
+				"Popelina: 59%algodón, 41%poliéster"
+			]
+		},
+		{
+			"it": "Falda sastre para dama",
+			"id": "Falda recta de vestir. Pinzas en espalda. Abertura de bastilla por espalda.",
+			"compo": [
+				"Gabardina stretch: 100%poliéster",
+				"Casimir con spandex: 65%poliéster, 33%viscosa, 2%elastano",
+				"Casimir con spandex: 84%poliéster, 14%viscosa, 2%elastano"
+			]
+		},
+		{
+			"it": "Chaleco de vestir caballero",
+			"id": "Chaleco de vestir para caballero de 5 botones. Bolsillos de vivo ancho. Terminación en pico en frente y recto en espalda. Con hebilla en espalda para ajustar.",
+			"compo": [
+				"Gabardina stretch: 100%poliéster",
+				"Jacquard: 100%poliéster",
+				"Casimir con spandex: 84%poliéster, 14%viscosa, 2%elastano"
+			]
+		},
+		{
+			"it": "Saco caballero con ojal contraste",
+			"id": "Saco para caballero de lana con ojal en solapa y mangas en contraste. Corte recto. Bolsillos de tapa al frente. Bolsillo de vivo en pecho."
+		}
+	]
+}
