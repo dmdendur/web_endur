@@ -1,0 +1,48 @@
+{
+	"tit0": "hotelería",
+	"subs0": "negocios / turismo / posada",
+	"tit": "/hotelería.",
+	"subcat": [
+		"negocios",
+		"turismo",
+		"posada"
+	],
+	"desc": "La carta de presentación de un hotel son sus empleados. Es por eso que nos esforzamos en ofrecer la más amplia gama de prendas para distinguir la imagen de tu empresa. Diseñamos y customizamos camisas, chalecos, pantalones, faldas y más. Eligiendo siempre los mejores materiales para cubrir y satisfacer todas las necesidades de nuestros clientes.",
+	"item": [
+		{
+			"it": "Camisa para hotel de playa",
+			"id": "Camisa para hotel de playa manga corta. Con cuello sport. Bolsa de parche en pecho y aletilla simulada.",
+			"compo": [
+				"Popelina: 80%algodón, 20%poliéster",
+				"Popelina: 76%poliéster, 24%algodón"
+			]
+		},
+		{
+			"it": "Saco sastre caballero",
+			"id": "Saco para caballero de solapa básica con bolsillos delanteros de doble vivo. Bolsillo de vivo ancho en pecho. Pinzas en delantero y espalda.",
+			"compo": [
+				"Casimir: 65%poliéster, 35%viscosa – 320gr/m2",
+				"Casimir: 55%poliéster, 45%lana",
+				"Casimir: 100%poliéster"
+			]
+		},
+		{
+			"it": "Camisa caballero",
+			"id": "Camisa de vestir para caballero con cuello y puños en contraste. Botones ocultos y bies decorativo bajo pie de cuello.",
+			"compo": [
+				"Popelina Ambassador: 70%poliéster, 30%algodón – 130gr/m2",
+				"Oxford: 60%algodón, 40%poliéster – 150gr/m2",
+				"Popelina: 59%algodón, 41%poliéster"
+			]
+		},
+		{
+			"it": "Pantalón de vestir caballero",
+			"id": "Pantalón de corte recto, bolsillos diagonales en el frente y bolsillos de doble vivo en espalda. Pretina de dos piezas. Zipper de nylon.",
+			"compo": [
+				"Casimir: 65%poliéster, 35%viscosa – 320gr/m2",
+				"Gabardina stretch: 97%algodón,3%elastano - ",
+				"Casimir: 100%poliéster"
+			]
+		}
+	]
+}
