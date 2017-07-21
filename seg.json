@@ -1,0 +1,50 @@
+{
+	"tit0": "seguridad",
+	"subs0": "guardias / policías / escoltas",
+	"tit": "/seguridad.",
+	"subcat": [
+		"guardias",
+		"policías",
+		"escoltas"
+	],
+	"desc": "Dentro de esta línea ofrecemos el diseño de chamarras, camisas de trabajo, pantalones de gabardina, gorras y accesorios diversos de acuerdo a las especificaciones de cada uno de nuestros clientes.",
+	"item": [
+		{
+			"it": "Corbata",
+			"id": "Contamos con accesorios personalizados para las necesidades de tu empresa. Como corbatas, pañuelos y diversos accesorios.",
+			"compo": [
+				"Jacquard: 100%poliester"
+			]
+		},
+		{
+			"it": "Chamarra de guardia seguridad",
+			"id": "Chaqueta de guardia con relleno. Gorro oculto dentro de cuello. Cierre reforzado. Bolsillos en diagonal al frente.",
+			"compo": [
+				"Loma: 100%poliamida",
+				"Lona resistente al agua: 100%poliamida",
+				"Gabardina: 100% algodón – 253 gr/m2"
+			]
+		},
+		{
+			"it": "Camisa guardia de seguridad",
+			"id": "Camisa para guardia de seguridad. Pie de cuello en contraste. Bolsillos delanteros de parche con solapa en contraste.",
+			"compo": [
+				"Gabardina: 80%poliéster, 20%algodón – 191gr/m2",
+				"Gabardina: 100%algodón – 253gr/m2",
+				"Popelina Ambassador: 70%poliéster, 30%algodón – 130gr/m2"
+			]
+		},
+		{
+			"it": "Pantalón policia ",
+			"id": "Pantalón de trabajo para policia o guardia de seguridad. Bolsillos diagonales delanteros tira decorativa con bies en costados.",
+			"compo": [
+				"Liso: 84%poliéster, 16%acrilico – 197gr/m2",
+				"RipStop: 100%algodón"
+			]
+		},
+		{
+			"it": "Pantalón de vestir caballero ",
+			"id": "Pantalón de corte recto, bolsillos diagonales en el frente y bolsillos de doble vivo en espalda. Pretina de dos piezas. Zipper de nylon."
+		}
+	]
+}
