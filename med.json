@@ -1,0 +1,53 @@
+{
+	"tit0": "médico",
+	"subs0": "consulta / quirúrjico / enfermería",
+	"tit": "/médico.",
+	"subcat": [
+		"consulta",
+		"quirúrjico",
+		"enfermería"
+	],
+	"desc": "Contamos con la mejor selección y diseños personalizados para cada tipo de trabajo en hospitales y enfermerías. Esta línea de uniformes incluye batas de laboratorio, trajes quirúrgicos, batas de pacientes, entre otros, ofreciendo textiles repelentes a líquidos y antibacteriales de la mayor calidad en el mercado.",
+	"item": [
+		{
+			"it": "scrub / trajes quirúrgicos maternidad",
+			"id": "Blusa de maternidad medica con tablones en delantero. Manga corta. Elástico en espalda para mejor ajuste.",
+			"compo": [
+				"Popelina o Gabardina 85%poliéster 15%algodón – ",
+				"Popelina o Gabardina 100% algodón – 164 gr/m2"
+			]
+		},
+		{
+			"it": "Bata médica dama",
+			"id": "Bata de laboratorio medica para dama. Bolsillos de doble capa. Abertura por los costados para acceder al pantalón. Tablón en espalda para estilizar sujeto con cinto no funcional de dos botones.",
+			"compo": [
+				"Gabardina: 80%poliéster 20%algodón – 191 gr/m2",
+				"Gabardina: 65% algodón 35%poliéster – 257 gr/m2",
+				"Gabardina: 100%algodón – 314gr/m2"
+			]
+		},
+		{
+			"it": "Scrub / trajes quirúrgicos dama",
+			"id": "Conunto blusa y pantalón medico. Corte recto. Bolsillos con detalle triangular en contraste y compartimiento para pluma. Bolsillo de parche en manga izquierda. Cuello en contraste.",
+			"compo": [
+				"Popelina o Gabardina 100% algodón – 164 gr/m2"
+			]
+		},
+		{
+			"it": "Bata de paciente verde",
+			"id": "Bata medica de exploración para pacientes. Corte recto. Terminación de cuello en bies. Se cruza por la espalda y se amarra con tiras por el costado. Velcro en cuello para ajustar.",
+			"compo": [
+				"Popelina o Gabardina 85%poliéster 15%algodón ",
+				"Popelina o Gabardina 100% algodón – 164 gr/m2"
+			]
+		},
+		{
+			"it": "Bata de paciente blanca",
+			"id": "Bata medica de exploración para pacientes. Corte recto. Terminación de cuello en bies. Se cruza por la espalda y se amarra con tiras por el costado. Velcro en cuello para ajustar.",
+			"compo": [
+				"Popelina o Gabardina 85%poliéster 15%algodón ",
+				"Popelina o Gabardina 100% algodón – 164 gr/m2"
+			]
+		}
+	]
+}
