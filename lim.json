@@ -1,0 +1,53 @@
+{
+	"tit0": "limpieza",
+	"subs0": "intendencia / mucamas / servicios sanitarios",
+	"tit": "/limpieza.",
+	"subcat": [
+		"intendencia",
+		"mucamas",
+		"servicios sanitarios"
+	],
+	"desc": "Los mejores uniformes de limpieza diseñados de acuerdo a las necesidades de cada cliente. Esta línea de uniformes incluye chalecos, overoles, pants, camisolas, mandiles entre otros... Ofrecemos una amplia variedad de telas de acuerdo a las preferencias del cliente.",
+	"item": [
+		{
+			"it": "Camisola de limpieza",
+			"id": "Cuello redondo con terminación en bies. Tiras en contraste en mangas y bastilla. Tira para trapo en costado derecho. Bolsillos tipo parche en delantero. Cierre separable.",
+			"compo": [
+				"Popelina: 85%poliéster 15%algodón – ",
+				"Popelina Borus: 65%poliéster, 35%algodón – 164gr/m2"
+			]
+		},
+		{
+			"it": "Vestido de limpieza",
+			"id": "Vestido línea A con cortes princesa en hombros. Bolsillos delanteros con terminaión de bies en contraste. Elástico de ajuste en espalda.",
+			"compo": [
+				"Popelina Borus: 65%poliéster, 35%algodón – 164gr/m2"
+			]
+		},
+		{
+			"it": "Pantalón de limpieza",
+			"id": "Pants para limpieza con corte recto de caballero. Bolsillos diagonales en delantero. Bolsillos tipo parche en espalda. Cintura completa de elástico.",
+			"compo": [
+				"Gabardina: 100%algodón – 219gr/m2",
+				"Gabardina: 60%algodón 40%poliéster – 232gr/m2"
+			]
+		},
+		{
+			"it": "Casaca de limpieza",
+			"id": "Delantal con ventana para gaffete. Bies en contraste. Tiras funcionales. Bolsillo de parche con velcro en el lado derecho.",
+			"compo": [
+				"Liso: 100%poliéster – 190gr/m2",
+				"Liso: 100%poliéster – 226gr/m2"
+			]
+		},
+		{
+			"it": "overol de limpieza",
+			"id": "overol de limpieza caballero. Bolsillo tipo parche del lado derecho con tapa. Parches en rodillas para más durabilidad. Tira funcional en espalda. Cierres funcionales en costados de rodilla a tobillo.",
+			"compo": [
+				"Gabardina: 60%algodón 40%poliéster – 232gr/m2",
+				"Gabardina: 100% algodón – 250 gr/m2",
+				"Gabardina: 65%poliéster 35%algodón - 310gr/m2"
+			]
+		}
+	]
+}
