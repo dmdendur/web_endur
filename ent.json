@@ -1,0 +1,46 @@
+{
+	"tit0": "entretenimiento",
+	"subs0": "casino / cine / parque temático",
+	"tit": "/entretenimiento.",
+	"subcat": [
+		"casino",
+		"cine",
+		"parque temático"
+	],
+	"desc": "Podemos fabricar una amplia variedad de uniformes para tu empresa de entretenimiento, como, por ejemplo, pantalones de vestir y casuales, blazers, polos, camisas, accesorios y más. Esta línea cubre desde cines hasta casinos y parques temáticos.",
+	"item": [
+		{
+			"it": "Chaleco casino para dama",
+			"id": "Chaleco con solapa redonda. Cortes en costados y bolsas de vivo simuladas. Con hebilla metalica en espalda para ajustar.",
+			"compo": [
+				"Jacquard: 100%poliéster",
+				"Casimir con spandex: 84%poliéster, 14%viscosa, 2%elastano"
+			]
+		},
+		{
+			"it": "Falda de casino para dama",
+			"id": "Falda recta con corte en costados. Pinzas en espalda. Abertura de bastilla por espalda.",
+			"compo": [
+				"Casimir: 65%poliéster, 35%viscosa – 320gr/m2"
+			]
+		},
+		{
+			"it": "Camisa caballero con alforzas",
+			"id": "Cuello para pajarita. Aletilla sencilla, Puños con terminación recta. Bata en espalda.",
+			"compo": [
+				"Popelina: 80%algodón, 20%poliéster",
+				"Popelina: 76%poliéster, 24%algodón",
+				"Popelina Borus: 100% algodón ",
+				"Popelina Borus: 60% algodón, 40% poliéster"
+			]
+		},
+		{
+			"it": "Accesorios",
+			"id": "Moño y corbatín de vestir. Creamos toda tu línea de accesorios personalizados.",
+			"compo": [
+				"Mascada: 100% poliéster",
+				"Corbata: 100%poliéster"
+			]
+		}
+	]
+}
