@@ -1,0 +1,57 @@
+{
+	"tit0": "industrial",
+	"subs0": "electrónicos / construcción / alimenticio / automotríz / fundición",
+	"tit": "/industrial.",
+	"subcat": [
+		"electrónicos",
+		"construcción",
+		"alimenticio",
+		"automotríz",
+		"fundición"
+	],
+	"desc": "Contamos con la experiencia para fabricar cualquier tipo de prenda dentro de esta gama, desde chaquetas y chalecos reflejantes, hasta prendas ignífugas y overoles y pantalones de trabajo. Contamos siempre con los materiales más resistentes y de fácil lavado para este tipo de prendas.",
+	"item": [
+		{
+			"it": "Chaleco de alta visibilidad",
+			"id": "Chaleco industrial de protección con cintas reflejantes. 4 bolsillos al frente. Ventana para gaffette.",
+			"compo": [
+				"Gabardina: 65%poliéster 35%algodón",
+				"Gabardina: 100% algodón – 250 gr/m"
+			]
+		},
+		{
+			"it": "Chaqueta de alto rendimiento",
+			"id": "Chaqueta de protección para caballero con cuello mao.  Herraje de media luna en corte de cintura. Bolsillos de vivos con cierre delantero. Puños con elástico para ajuste. Cortes en espalda. Bolsillos internos.",
+			"compo": [
+				"100% poliamida",
+				"Anorak con repelente: 100% poliamida"
+			]
+		},
+		{
+			"it": "Camisa de trabajo caballero",
+			"id": "Camisa de trabajo para caballero. Manga larga con corte de bata al frente. Bolsillos de parche en pecho con zippers bajo la bata. Tablón en espalda.",
+			"compo": [
+				"Mezclilla 100% algodón – 10oz",
+				"Gabardina: 60%algodón 40%poliéster – 232gr/m 2",
+				"Gabardina: 100% algodón – 253 gr/m 2"
+			]
+		},
+		{
+			"it": "overol de alta visibilidad",
+			"id": "overol industrial de alta visibilidad. Pantalón recto con cintas reflejantes. Cierre cubierto. Bolsas de parche en costados y cortes en las rodillas.",
+			"compo": [
+				"Gabardina: 60%algodón 40%poliéster – 232gr/m 2",
+				"Gabardina: 100% algodón – 250 gr/m 2",
+				"Gabardina: 65%poliéster 35%algodón - 310gr/m 2"
+			]
+		},
+		{
+			"it": "Pantalón de trabajo mezclilla",
+			"id": "Pantalón de trabajo de mezcilla de alta resistencia para caballero. Bolsillos laterales básicos y bolsillos de parche en espalda.",
+			"compo": [
+				"Mezclilla 100%algodón 13.75 oz",
+				"Mezclilla 100%algodón 12 oz"
+			]
+		}
+	]
+}
